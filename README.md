@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Younas</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzayounas256&label=Profile%20views&color=0e75b6&style=flat" alt="hamzayounas256" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="hamzayounas256" /> </p>
 
 - 🔭 I’m currently working on [American Electronics](https://crystalsolutions.com.pk/americanweb/)
 
