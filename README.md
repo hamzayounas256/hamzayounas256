@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Younas</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="hamzayounas256" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/5b9ac85e2c4a700b57ef1d6b6e286f25171c91f542018e0f57a9d8b6cca8442d/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6e6974632d7065726d697373696f6e2d73797374656d2e61707073706f742e636f6d2f6f2f6769746875622d696d61676573253246646877616e6973682d636f64696e672e6769663f616c743d6d65646961" alt="hamzayounas256" /> </p>
 
 - 🔭 I’m currently working on [American Electronics](https://crystalsolutions.com.pk/americanweb/)
 
