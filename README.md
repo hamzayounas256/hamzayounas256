@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on [Emart](https://crystalsolutions.com.pk/emart)
-
 - 👨‍💻 All of my projects are available at [https://hamzayounasportfolio.netlify.app/](https://hamzayounasportfolio.netlify.app/)
 
-- 💬 Ask me about **react, vue, mongodb, mysql, node, php etc**
+- 💬 Ask me about **javascript, react, mongodb, mysql, node, php etc**
 
 - 📫 How to reach me **hamzayounas256@gmail.com**
 
