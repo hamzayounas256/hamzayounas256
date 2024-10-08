@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [American Electronics](https://crystalsolutions.com.pk/americanweb/)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://hamzayounasportfolio.netlify.app/](https://hamzayounasportfolio.netlify.app/)
 
