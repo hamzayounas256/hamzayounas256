@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Billilo](https://billilo.vercel.app/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://hamzayounasportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hamzayounasportfolio.vercel.app)
 
 - 💬 Ask me about **javascript, react, mongodb, mysql, node, python etc**
 
 - 📫 How to reach me **hamzayounas256@gmail.com**
 
-- 📄 Know about my experiences [https://hamzayounasportfolio.netlify.app/resume](https://hamzayounasportfolio.netlify.app/resume)
+- 📄 Know about my experiences [Resume](https://hamzayounasportfolio.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
