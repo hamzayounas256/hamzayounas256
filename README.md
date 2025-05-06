@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Younas</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan</h3>
+<h3 align="center">A Passionate Fullstack Developer From Pakistan</h3>
 
 <p align="center"> 
   <img src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdpdGh1YnxlbnwwfHwwfHx8MA%3D%3D" alt="hamzayounas" /> 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://hamzayounasportfolio.vercel.app)
 
-- 💬 Ask me about **javascript, react, mongodb, mysql, node, python etc**
+- 💬 Ask me about **javascript, react, mysql, python, django, DRF etc**
 
 - 📫 How to reach me **hamzayounas256@gmail.com**
 
