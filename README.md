@@ -5,7 +5,7 @@
   <img src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdpdGh1YnxlbnwwfHwwfHx8MA%3D%3D" alt="hamzayounas" /> 
 </p>
 
-- 🔭 I’m currently working on [Billilo](https://billilo.vercel.app/)
+- 🔭 I’m currently working on Sugar Pixels Ai
 
 - 🌱 I’m currently learning **Python**
 
